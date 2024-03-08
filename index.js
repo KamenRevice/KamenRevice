@@ -20,3 +20,4 @@ const readme = `\
 ---
 ⏰ Updated on ${new Date().toUTCString()}
 ---
+![](https://raw.githubusercontent.com/KamenRevice/KamenRevice/main/assets/github-contribution-grid-snake.svg)
