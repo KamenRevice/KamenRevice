@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/KamenRevice/KamenRevice/main/assets/github-contribution-grid-snake.svg)  
+![](https://raw.githubusercontent.com/KamenRevice/KamenRevice/output/github-contribution-grid-snake.svg)  
 
 
 
