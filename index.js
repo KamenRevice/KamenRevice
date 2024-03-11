@@ -22,8 +22,10 @@ const readme = `\
 
 ⏰ Updated on ${new Date().toUTCString()}
 
+---
+![snake](https://raw.githubusercontent.com/KamenRevice/KamenRevice/output/github-contribution-grid-snake.svg)
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
+![Progress Bar CI](https://github.com/KamenRevice/KamenRevice/workflows/Progress%20Bar%20CI/badge.svg)\
 `
 
 console.log(readme)
